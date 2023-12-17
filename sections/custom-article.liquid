@@ -1,0 +1,234 @@
+<div class="custom_article_main max-w-site mx-auto px-section">
+  <div class="custom_article_main_sub">
+    <div class="left">
+      <h2 class="article_title h1">{{ article.title }}</h2>
+      {%- if article.metafields.custom.scientific_name.value != blank -%}
+        <p class="scientific_name">{{ article.metafields.custom.scientific_name.value }}</p>        
+      {%- endif -%}
+      
+      {%- if article.content != blank -%}
+        <div class="description_main">
+          <h3 class="description-heading">Description :</h3>
+          <div class="rte description">
+            {{ article.content }}
+          </div>
+        </div>
+      {%- endif -%}
+    </div>
+
+    {%- assign blogImage = article.metafields.custom.image.value -%}
+    {%- if blogImage.count > 0 -%}
+      <div class="right">
+        <div class="blog_image_slider">
+          {%- for image in blogImage -%}
+            <div class="blog_img">
+              {%- render 'custom-media-image',
+                media: image,
+                shape: '',
+                crop: '',
+                container_id: section.id,
+                index: forloop.index0,
+                rotate: 0
+              -%}
+            </div>
+          {%- endfor -%}
+        </div>
+      </div>
+    {%- endif -%}
+  </div>
+
+  {%- assign tagsBlocks = section.blocks | where: 'type' , 'tags' -%}
+  {%- if tagsBlocks.size > 0 -%}
+    <style>
+      .custom_article_main .custom_tag_main:empty {
+        display: none;
+      }
+    </style>
+    <div class="custom_tag_main">
+      {%- for block in tagsBlocks -%}
+        {%- assign customTags = block.settings.tag_list | replace: ' ,', ',' | replace: ', ', ',' | split: "," -%}
+        {%- assign matchingTags = "" -%}
+        {%- for articleTag in article.tags -%}
+          {%- assign tag = articleTag | downcase -%}
+          {%- for customTag in customTags -%}
+            {%- assign customTagBlock = customTag | downcase -%}
+            {%- if tag contains customTagBlock -%}
+              {%- assign matchingTags = matchingTags | append: articleTag | append: ', ' -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endfor -%}
+        
+        {%- if matchingTags.size > 0 and block.settings.tag_heading != blank and customTags != blank -%}
+          <div class="tag_list_main">
+            <h3 class="tag_heading">{{ block.settings.tag_heading }}</h3>
+            <p class="tag_title">{{ matchingTags | remove_last: ', ' }}</p>
+          </div>
+        {%- endif -%}
+
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+
+  {%- assign plantArticle = article.metafields.custom.custom_article_handle.value -%}
+  {%- if section.settings.show_product_meta and plantArticle != blank -%}
+    <div class="section_paired_main">
+      {%- if section.settings.title_1 != blank -%}
+        <h2 class="paired_title_sub">{{ section.settings.title_1 }}</h2>
+      {%- endif -%}
+      <div class="article_img_main">
+        {%- assign blogHandles = plantArticle | replace: ' ,', ',' | replace: ', ', ',' | split: "," -%}
+        {%- for handle in blogHandles -%}
+          {%- assign articleMeta = articles[handle] -%}
+          {%- if articleMeta.title != blank -%}
+            <div class="article_img">
+              <a href="{{ articleMeta.url }}" class="product_url">
+                {%- render 'custom-media-image',
+                  media: articleMeta.image,
+                  shape: '',
+                  crop: '',
+                  container_id: section.id,
+                  index: forloop.index0,
+                  rotate: 0
+                -%}
+                <h3 class="article_title">{{ articleMeta.title }}</h3>
+              </a>
+            </div>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    </div>
+  {%- endif -%}
+
+  {%- assign articleBestProduct = article.metafields.custom.best_products.value -%}
+  {%- if section.settings.best_products_meta and articleBestProduct.count > 0 -%}
+    <div class="section_best_main">
+      {%- if section.settings.title_2 != blank -%}
+        <h2 class="best_title_sub">{{ section.settings.title_2 }}</h2>
+      {%- endif -%}
+
+      <div class="product_img_main main-collection-product-grid">
+        <ul class="grid grid-cols-1 lg:grid-cols-3">
+        {%- for product in articleBestProduct -%}
+          <li class="">
+              {%- render 'product-tile'
+                product: product,
+                display_on_card: true,
+                class: 'lg:translate-y-4 ', 'lg:-translate-y-4 ', 'lg:translate-y-4',
+                index: forloop.index0,
+                products_per_row_mobile: '3',
+                enable_quick_buy: false,
+                enable_color_swatch: true
+              -%}
+            </li>
+
+          {% comment %} <div class="product_img grid flex flex-col">
+            <a href="{{ product.url }}" class="product_url">
+              {%- render 'custom-media-image',
+                media: product.featured_image,
+                shape: '',
+                crop: '',
+                container_id: section.id,
+                index: forloop.index0,
+                rotate: 0
+              -%}
+            </a>
+            <div class="product-content">
+              <h3 class="font-body product-title h3">{{ product.title | escape }}</h3>
+
+              <div class="collection-product-rating-main">
+                <div class="loox-rating" data-id="{{ product.id }}" data-rating="{{ product.metafields.loox.avg_rating }}" data-raters="{{ product.metafields.loox.num_reviews }}"></div>
+                {%- if product.metafields.loox.avg_rating != blank or product.metafields.loox.num_reviews != blank -%}
+                  <span>
+                    {%- if product.metafields.loox.avg_rating != blank -%}
+                      {{ product.metafields.loox.avg_rating }} 
+                    {%- endif -%}
+                    {%- if product.metafields.loox.num_reviews != blank -%}
+                      ({{ product.metafields.loox.num_reviews }})
+                    {%- endif -%}
+                  </span>
+                {%- endif -%}
+              </div>
+              <div class="product-price-main">
+                {%- if product.metafields.custom.set_of_text.value -%}
+                  <p class="set_of_text">{{ product.metafields.custom.set_of_text.value }}</p>
+                {%- endif -%}
+                <span class="product_price">{{ product.price | money }}</span>
+              </div>
+
+              {% render 'color-options', product: product %}
+
+              {%- assign current_variant = product.selected_or_first_available_variant -%}
+              {%- assign availableVariant = '' -%}
+              {%- if current_variant != blank -%}
+                {%- assign availableVariant = '?variant=' | append: current_variant.id -%}
+              {%- endif -%}
+              <a href="{{ product.url }}{{ availableVariant }}" class="shop_btn primary-button">
+                Shop {{ product.title }}
+              </a>
+            </div>
+
+          </div> {% endcomment %}
+        {%- endfor -%}
+        </ul>
+      </div>
+    </div>
+  {%- endif -%}
+
+</div>
+
+
+{% schema %}
+  {
+    "name": "Custom article page",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title_1",
+        "label": "Title first product metafield",
+        "default": "Looks good paired with:"
+      },
+      {
+        "type": "checkbox",
+        "id": "show_product_meta",
+        "label": "Show metafield articles",
+        "default": true
+      },
+      {
+        "type": "text",
+        "id": "title_2",
+        "label": "Title second product metafield",
+        "default": "Looks best with these pots:"
+      },
+      {
+        "type": "checkbox",
+        "id": "best_products_meta",
+        "label": "Show best products metafield",
+        "default": true
+      }
+    ],
+    "blocks": [
+      {
+        "type": "tags",
+        "name": "Tags",
+        "settings":[
+          {
+            "type": "text",
+            "id": "tag_heading",
+            "label": "Tag heading"
+          },
+          {
+            "type": "textarea",
+            "id": "tag_list",
+            "label": "Enter tag",
+            "info": "Seperated by ' , ' Eg: tag1, tag2, tag3"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Custom article"
+      }
+    ]
+  }
+  {% endschema %}

@@ -1,0 +1,18 @@
+<div class="main-blog-search-result">
+  <form class="blog-search" method="get" role="search">
+    <div class="input-with-search">
+      <input type="hidden" name="type" value="article">
+      <input
+        type="text"  name="aq" placeholder="Search by plant name"
+        class="blog-search__input custom form-field input" data-blog-handle="{{ blog.handle }}"
+      />
+    </div>
+    <div class="algolia-autocomplete"></div>
+
+    {% comment %} <button type="submit" class="o-btn blog-search__btn">
+      <span class="o-btn__arrow o-btn__arrow--cta-size">
+      {%- include 'icon-search' -%}
+      </span>
+    </button> {% endcomment %}
+  </form>
+</div>
