@@ -33,10 +33,16 @@
   stroke: rgb(var(--color-sticker-border));
   stroke-width: var(--sticker-border-width);
 }
+
+.sticker-text {
+  text-transform: var(--sticker-text-transform);
+}
+
 .sticker-drop-shadow {
   position: absolute;
-  top: var(--sticker-drop-shadow-top-size);
-  left: var(--sticker-drop-shadow-left-size);
+  top: 0;
+  left: 0;
+  transform: translate(var(--sticker-drop-shadow-left-size), var(--sticker-drop-shadow-top-size));
   z-index: -1;
 }
 .sticker-drop-shadow-path {
@@ -44,25 +50,11 @@
   stroke-width: var(--sticker-shadow-border-width);
 }
 
-
-[data-parallax-element] {
-  transition: all 50ms linear;
-  will-change: transform;
+.sticker-drop-shadow-border-only {
+  fill: transparent;
+  stroke-width: var(--sticker-shadow-border-width);
 }
 
-@keyframes rotate {
-  from {
-    -webkit-transform: rotate(0deg);
-  }
-  to {
-    -webkit-transform: rotate(360deg);
-  }
-}
-@media screen and (prefers-reduced-motion: no-preference) {
-  .constantly-rotate {
-    animation-iteration-count:infinite;
-    animation-timing-function:linear;
-    animation-name:rotate;
-    animation-duration:5s;
-  }
+.sticker-text-container {
+  text-transform: var(--sticker-text-transform);
 }

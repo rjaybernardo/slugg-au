@@ -71,42 +71,57 @@
 <svg width="0" height="0" viewBox="0 0 200 200">
   <defs>
     <clipPath id="clip-{{ block.id }}" clipPathUnits="objectBoundingBox">
-      <path transform="scale(0.005,0.005)" d="{{ sticker_path }}" fill="black"/>
+      <path clip-rule="evenodd" transform="scale(0.005,0.005)" d="{{ sticker_path }}" fill="black"/>
     </clipPath>
     <path id="outline-{{ block.id }}" vector-effect="non-scaling-stroke"  d="{{ sticker_path }}" />
   </defs>
 </svg>
-<div {% if block.settings.enable_parallax %}data-parallax-element data-parallax-speed="-{{ 11 | minus: block.settings.parallax_speed }}"{% endif %} class="z-sticker pointer-events-none absolute {% unless block.settings.show_sticker_on_mobile %}max-lg:hidden{% endunless %} {% unless block.settings.show_sticker_on_desktop %}lg:hidden{% endunless %}" id="sticker-{{ block.id }}" data-color-scheme="{% if block.settings.color_scheme == 'same_as_section' %}{{ section.settings.color_scheme }}{% else %}{{ block.settings.color_scheme }}{% endif %}">
-  <div class="sticker-translate-container">
-    <div class="sticker-rotate-container {% if block.settings.rotation_animation == 'rotate_when_scrolling' %}sticker-rotate-when-scrolling{% endif %} {% if block.settings.rotation_animation == 'constantly_rotate' %}constantly-rotate{% endif %}">
-    {%- if block.settings.image != blank -%}
-      {%- assign image_width = block.settings.width | times: 2 %}
-      <div class="sticker-image rotate-anim">
-      {{ block.settings.image | image_url: width: image_width | image_tag: class: 'sticker-width-container max-w-none' }}
-      </div>
-    {%- else -%}
-    {%- if block.settings.shape == 'fit_to_text' -%}
-      <div class="sticker-default {{ block.settings.color }} whitespace-nowrap">
-        {{ block.settings.text }}
-      </div>
-      {%- else -%}
-      <div class="sticker-container relative rotate-anim">
-        <svg class="sticker-width-container sticker-svg relative max-w-none" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-          <foreignObject clip-path="url(#clip-{{ block.id }})" width="100%" height="100%">
-            <div id="sticker-foreignObject-{{ block.id }}" class="aspect-w-1 aspect-h-1 p-4 break-words sticker-text top-0 left-0 right-0 bottom-0 w-full h-full flex items-center justify-center text-center leading-none {{ block.settings.color }}">
-              <span class="w-full">{{ block.settings.text | newline_to_br }}</span>
+<div  class="z-sticker pointer-events-none absolute {% unless block.settings.show_sticker_on_mobile %}max-lg:hidden{% endunless %} {% unless block.settings.show_sticker_on_desktop %}lg:hidden{% endunless %}" id="sticker-{{ block.id }}" data-color-scheme="{% if block.settings.color_scheme == 'same_as_section' %}{{ section.settings.color_scheme }}{% else %}{{ block.settings.color_scheme }}{% endif %}">
+  <div class="sticker-translate-container" {{ block.shopify_attributes }}>
+    <div class="sticker-parallax-container" data-sticker {% if block.settings.enable_parallax %}data-parallax-container data-parallax-speed="{{ block.settings.parallax_speed }}" data-parallax-id="{{ block.id }}"{% endif %}>
+      <div class="sticker-parallax-element"  {% if block.settings.enable_parallax %}data-parallax-element{% endif %}>
+        <div class="sticker-rotate-container {% if block.settings.rotation_animation == 'rotate_when_scrolling' %}sticker-rotate-when-scrolling{% endif %} {% if block.settings.rotation_animation == 'constantly_rotate' %}constantly-rotate{% endif %}">
+        {%- if block.settings.image != blank -%}
+          {%- assign image_width = block.settings.width | times: 2 %}
+          <div class="sticker-image rotate-anim">
+          {{ block.settings.image | image_url: width: image_width | image_tag: class: 'sticker-width-container max-w-none' }}
+          </div>
+        {%- else -%}
+        {%- if block.settings.shape == 'fit_to_text' -%}
+          <div class="sticker-default {{ block.settings.color }} whitespace-nowrap">
+            {{ block.settings.text }}
+          </div>
+          {%- else -%}
+          <div class="sticker-container relative rotate-anim">
+            <div class="absolute inset-0 {{ block.settings.color }}" style="clip-path: url(#clip-{{ block.id }})">
+              <div id="sticker-text-{{ block.id }}" class="sticker-text absolute inset-0 flex items-center justify-center text-center">
+                <div>{{ block.settings.text | newline_to_br }}</div>
+              </div>
             </div>
-          </foreignObject>
-          <use style="fill: none;" href="#outline-{{ block.id }}" />
-        </svg>
-        {%- if settings.sticker_drop_shadow_size > 0 -%}
-        <svg class="sticker-svg sticker-drop-shadow relative max-w-none" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-          <use class="sticker-drop-shadow-path"  href="#outline-{{ block.id }}" />
-        </svg>
+            <svg class="sticker-width-container relative max-w-none {{ section.settings.color | split: ' ' | last }}" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <use class="sticker-svg fill-transparent" href="#outline-{{ block.id }}" />
+            </svg>
+            {%- if settings.sticker_drop_shadow_size > 0 -%}
+              {%- if settings.sticker_shadow_color == 'color-scheme-gradient' -%}
+                <div class="sticker-svg sticker-drop-shadow relative max-w-none inset-0">
+                  <div class="aspect-w-1 aspect-h-1 w-full h-full bg-scheme-gradient absolute" style="clip-path: url(#clip-{{ block.id }})"></div>
+                </div>
+                <svg class="sticker-svg sticker-drop-shadow relative max-w-none inset-0" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  {% if settings.sticker_show_border_on_shadow %}
+                  <use class="sticker-drop-shadow-border-only"  href="#outline-{{ block.id }}" />
+                  {% endif %}
+                </svg>
+              {%- else -%}
+                <svg class="sticker-svg sticker-drop-shadow relative max-w-none inset-0" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <use class="sticker-drop-shadow-path"  href="#outline-{{ block.id }}" />
+                </svg>
+              {%- endif -%}
+            {%- endif -%}
+          </div>
+          {%- endif -%}
         {%- endif -%}
+        </div>
       </div>
-      {%- endif -%}
-    {%- endif -%}
     </div>
   </div>
 </div>
@@ -114,7 +129,7 @@
 <style>
   #sticker-{{ block.id }} {
     top: {{ block.settings.vertical_position }}%;
-    left: {{ block.settings.horizontal_position }}%; 
+    left: {{ block.settings.horizontal_position }}%;
   }
 
   #sticker-{{ block.id }} .sticker-translate-container {
@@ -125,9 +140,15 @@
     transform: rotate({{ block.settings.rotate }}deg);
   }
 
-  #sticker-foreignObject-{{ block.id }},
+  #sticker-text-{{ block.id }} {
+    padding: calc(2rem * {{ block.settings.width }} / 300);
+  }
+
+  #sticker-text-{{ block.id }},
   #sticker-{{ block.id }} .sticker-default  {
-    font-size: {{ block.settings.sticker_font_size }};
+    --adjusted-sticker-font-size: calc({{ block.settings.sticker_font_size }} * 1.5);
+    font-size: calc(var(--adjusted-sticker-font-size) * {{ block.settings.width }} / 300);
+    line-height: 1;
   }
 
   {%- if block.settings.half_image_width_on_mobile and block.settings.image != blank -%}
@@ -144,13 +165,13 @@
     width: {{ block.settings.width }}px;
   }
   {%- endif -%}
-  
+
 
 </style>
 
 {% unless request.design_mode %}
 {% if block.settings.enable_parallax or block.settings.rotation_animation == 'rotate_when_scrolling' %}
-  <script src="{{ 'modules-parallax.bundle.min.js' | asset_url }}" defer></script>
+  <script src="{{ 'shapes-animations.js' | asset_url }}" defer></script>
 {% endif %}
 {%- endunless -%}
 {{ 'block-sticker.css' | asset_url | stylesheet_tag }}

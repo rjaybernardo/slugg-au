@@ -1,1 +1,15 @@
-{"parent":"index.json","context":{"market":"usa"},"sections":{"0f2d033f-6467-4a83-81ba-2010b9dfffea":{"settings":{"richtext":"<p>USA Designer garden pot clusters that are guaranteed to look amazing.<\/p>"},"blocks":{}}}}
+{
+  "parent": "index.json",
+  "context": {
+    "market": "usa"
+  },
+  "sections": {
+    "0f2d033f-6467-4a83-81ba-2010b9dfffea": {
+      "settings": {
+        "richtext": "<p>USA Designer garden pot clusters that are guaranteed to look amazing.<\/p>"
+      },
+      "blocks": {
+      }
+    }
+  }
+}

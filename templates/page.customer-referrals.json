@@ -1,0 +1,73 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "display_on_card": true,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "rich_text_eFW46J": {
+      "type": "rich-text",
+      "settings": {
+        "title": "Customer Referral Program",
+        "heading_size": "heading-base",
+        "rich_text": "<p>We love our customers.  And they love telling their friends about us.  That's why we've set up a customer referral program to reward our happy customers every time they refer Slugg to a friend.<\/p><p>Here's how it works:<\/p><p>Step 1: To enter the program simply complete the form below.<\/p><p>Step 2: You'll be given a unique code\/link to share with as many people as possible.<\/p><p>Step 3: Your friends will receive an exclusive discount of $25 if they use your code. And most importantly, you'll receive $25 when they purchase.<\/p>",
+        "display_on_card": false,
+        "content_width_desktop": "lg:w-1\/2",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "17049441109ed77eee": {
+      "type": "apps",
+      "blocks": {
+        "snowball_affiliate_marketing_affiliate_sign_up_mqCwJp": {
+          "type": "shopify:\/\/apps\/snowball-affiliate-marketing\/blocks\/affiliate-sign-up\/6e5feda3-ec24-4171-ae41-64028b660bc7",
+          "settings": {
+            "form_id": "51208a98-a69b-45ba-8964-bf90b73708b2"
+          }
+        }
+      },
+      "block_order": [
+        "snowball_affiliate_marketing_affiliate_sign_up_mqCwJp"
+      ],
+      "settings": {
+      }
+    },
+    "featured_collection_WyThDP": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "collection": "all-pots",
+        "enable_shop_btn": true,
+        "no_products": 4,
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "display_on_card": false,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_eFW46J",
+    "17049441109ed77eee",
+    "featured_collection_WyThDP"
+  ]
+}
