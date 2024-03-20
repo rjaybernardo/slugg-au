@@ -1,1 +1,75 @@
-{"sections":{"featured-image":{"type":"main-article-featured-image","disabled":true,"settings":{"style":"inset","height":"pt-two-thirds-screen-height","color_scheme":"secondary","use_gradient_background":false}},"main":{"type":"main-article","settings":{"display_on_card":false,"show_image":false,"show_author":false,"show_date":true,"show_share_links":true,"show_tags":false,"show_next_previous_links":true,"color_scheme":"secondary","use_gradient_background":false}},"1661923765a876d6ee":{"type":"rich-text","settings":{"title":"","heading_size":"heading-base","rich_text":"","display_on_card":true,"content_width_desktop":"lg:w-2\/3","button_link":"shopify:\/\/blogs\/news","button_label":"Back to Posts","color_scheme":"secondary","use_gradient_background":false}},"9b9777b5-82ba-4f5a-ba44-545069d19027":{"type":"featured-collection","custom_css":["h3 {font-family: \"Cooper BT\"; font-weight: 200; font-size: 50px;}"],"settings":{"title":"Find your perfect Slugg.","subheading":"Free Metro Delivery | All Orders Dispatched in 24 Hours!","collection":"all-pots","enable_shop_btn":false,"no_products":3,"show_view_all":false,"enable_quick_buy":true,"display_on_card":true,"layout":"grid","products_per_row_mobile":"1","products_per_row_desktop":3,"slideshow_focus":"center","mobile_slide_width":"three_fifths","desktop_slide_width":40,"autoscroll_mode":"1","product_tiles_aspect_ratio":"","image_shape":"","color_scheme":"primary","use_gradient_background":false}}},"order":["featured-image","main","1661923765a876d6ee","9b9777b5-82ba-4f5a-ba44-545069d19027"]}
+{
+  "sections": {
+    "featured-image": {
+      "type": "main-article-featured-image",
+      "disabled": true,
+      "settings": {
+        "style": "inset",
+        "height": "pt-two-thirds-screen-height",
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "settings": {
+        "display_on_card": false,
+        "show_image": false,
+        "show_author": false,
+        "show_date": true,
+        "show_share_links": true,
+        "show_tags": false,
+        "show_next_previous_links": true,
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
+    },
+    "1661923765a876d6ee": {
+      "type": "rich-text",
+      "settings": {
+        "title": "",
+        "heading_size": "heading-base",
+        "rich_text": "",
+        "display_on_card": true,
+        "content_width_desktop": "lg:w-2/3",
+        "button_link": "shopify://blogs/news",
+        "button_label": "Back to Posts",
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
+    },
+    "9b9777b5-82ba-4f5a-ba44-545069d19027": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h3 {font-family: \"Cooper BT\"; font-weight: 200; font-size: 50px;}"
+      ],
+      "settings": {
+        "title": "Find your perfect Slugg.",
+        "subheading": "Free Metro Delivery | All Orders Dispatched in 24 Hours!",
+        "collection": "all-pots",
+        "enable_shop_btn": false,
+        "no_products": 3,
+        "show_view_all": false,
+        "enable_quick_buy": true,
+        "display_on_card": true,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": [
+    "featured-image",
+    "main",
+    "1661923765a876d6ee",
+    "9b9777b5-82ba-4f5a-ba44-545069d19027"
+  ]
+}

@@ -225,7 +225,7 @@
           "show_announcement_bar": true,
           "home_page_only": false,
           "display": "static",
-          "text": "<p>SHOP ALL POTS <strong>NOW &gt;<\/strong><\/p>",
+          "text": "<p>YOUR PLANTS DESERVE THE BEST HOME! SHOP ALL POTS <strong>HERE &gt;<\/strong><\/p>",
           "link": "https:\/\/slugg.com.au\/collections\/all-pots",
           "color_scheme": "quaternary",
           "use_gradient_background": false,
@@ -360,6 +360,12 @@
         "disabled": true,
         "settings": {
           "enable_email_capture": true
+        }
+      },
+      "17676059084223943535": {
+        "type": "shopify:\/\/apps\/triplewhale\/blocks\/triple_pixel_snippet\/483d496b-3f1a-4609-aea7-8eee3b6b7a2a",
+        "disabled": false,
+        "settings": {
         }
       }
     }

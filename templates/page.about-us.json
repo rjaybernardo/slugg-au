@@ -1,1 +1,499 @@
-{"sections":{"1661211337eb27d210":{"type":"image-with-text","blocks":{"c5d46618-6837-4508-a749-fb10abd54e1c":{"type":"background_shape","disabled":true,"settings":{"shape":"blob","blob_type":9,"size":110,"opacity":4,"blur":0,"horizontal_position":68,"vertical_position":54,"rotate":-2,"enable_parallax":false,"parallax_speed":3,"color":"text","color_scheme":"same_as_section"}},"41660cad-daa4-44c7-8789-209b8e96f7dc":{"type":"sticker","disabled":true,"settings":{"text":"Australian made","shape":"scalloped_circle_4","width":140,"sticker_font_size":"1.563rem","half_image_width_on_mobile":true,"horizontal_position":84,"vertical_position":81,"rotate":-10,"show_sticker_on_mobile":false,"show_sticker_on_desktop":true,"rotation_animation":"none","enable_parallax":false,"parallax_speed":3,"color":"bg-scheme-accent text-scheme-accent-overlay","color_scheme":"same_as_section"}},"fa5607fb-5fa2-4d36-ab44-a991ecdac7ac":{"type":"sticker","settings":{"text":"FREE Metro\nDelivery*","shape":"star_2","width":160,"sticker_font_size":"1.563rem","half_image_width_on_mobile":true,"horizontal_position":63,"vertical_position":18,"rotate":-24,"show_sticker_on_mobile":false,"show_sticker_on_desktop":true,"rotation_animation":"none","enable_parallax":false,"parallax_speed":3,"color":"bg-scheme-background text-scheme-text","color_scheme":"quaternary"}}},"block_order":["c5d46618-6837-4508-a749-fb10abd54e1c","41660cad-daa4-44c7-8789-209b8e96f7dc","fa5607fb-5fa2-4d36-ab44-a991ecdac7ac"],"settings":{"display_on_card":false,"image":"shopify:\/\/shop_images\/Slugg_Pots_Half-Banner_3.jpg","crop":"aspect-w-1 aspect-h-1","image_shape":"default_archway","blob_type":7,"rotate_image":0,"image_position":"right","image_size":"half","disable_media_style":false,"title":"Who is Slugg®?","heading_size":"heading-template","richtext":"<p><br\/><br\/>Slugg® garden pots are individually handcrafted with the finest materials to create our iconic flawless finish. Your plants deserve the best home.<br\/><br\/><br\/><br\/>Each set of Slugg® garden pots includes three pots: small, medium, and large. <br\/><br\/><br\/><br\/><\/p>","text_alignment":"text-left","button_link":"shopify:\/\/collections\/all-pots","button_label":"Shop All Garden Pots","color_scheme":"secondary","use_gradient_background":false}},"1661211315ab90908b":{"type":"text-marquee","settings":{"text":"Real reviews from real customers","repeat_text":true,"shape_between_text":"10_point_star","animate_shape_between_text":true,"link":"","font":"font-heading heading-secondary","text_size":"text-xl","speed":60,"direction":"","color_scheme":"tertiary","use_gradient_background":false}},"1661211848719de892":{"type":"apps","blocks":{"f2af6efb-8239-4721-a67e-a832cea981dd":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-card-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"maxWidth":1280,"borderRadius":12,"itemsPerView":5,"maxNumberOfCharacters":80,"imageRatio":"1","reviewerNameColor":"#783e2b","textColor":"#553b26","itemBackgroundColor":"#f9f8f6","starsColor":"#d4f871","starsBackgroundColor":"rgba(0,0,0,0)","arrows_backgroundColor":"#d4f871","arrows_iconColor":"#553b26","shadow":"none","border_active":true,"border_width":1,"border_color":"#553b26","productIds":""}}},"block_order":["f2af6efb-8239-4721-a67e-a832cea981dd"],"settings":{}},"1661213136a184a681":{"type":"image-with-text","blocks":{"1f7929bc-a84d-43b4-aa81-5bee307e7a12":{"type":"shape_divider","settings":{"target_section":"above","target_section_color_scheme":"primary","style":"large-waves_1200x84","flip_horizontal":true,"enable_animation":false,"animation_direction":""}},"03889dfa-601f-4ac6-9df4-4c02e5e38164":{"type":"shape_divider","settings":{"target_section":"below","target_section_color_scheme":"secondary","style":"large-waves_1200x84","flip_horizontal":false,"enable_animation":false,"animation_direction":""}},"69aa803b-ca95-4951-b553-e315c8ccedd4":{"type":"background_shape","settings":{"shape":"blob","blob_type":6,"size":95,"opacity":4,"blur":0,"horizontal_position":23,"vertical_position":50,"rotate":34,"enable_parallax":false,"parallax_speed":3,"color":"text","color_scheme":"same_as_section"}}},"block_order":["1f7929bc-a84d-43b4-aa81-5bee307e7a12","03889dfa-601f-4ac6-9df4-4c02e5e38164","69aa803b-ca95-4951-b553-e315c8ccedd4"],"settings":{"display_on_card":false,"image":"shopify:\/\/shop_images\/Slugg_Pots_Half-Banner_7.jpg","crop":"aspect-w-1 aspect-h-1","image_shape":"blob","blob_type":6,"rotate_image":0,"image_position":"left","image_size":"half","disable_media_style":false,"title":"Sluggs® are Australia's highest rated garden pots!","heading_size":"heading-base","richtext":"<p><br\/><br\/>⭐️⭐️⭐️⭐️⭐️ 4.9\/5 based on 900+ <a href=\"\/pages\/customer-reviews\" title=\"Customer Reviews\">Verified Reviews<\/a><br\/><br\/>- Free metro delivery <br\/>- Lightweight, waterproof, and built to last<br\/>- Orders dispatched within 24 hours<br\/>- Suitable for indoors & outside<br\/><br\/>Pre-packaged set of three garden pots.  Now you can create the perfect pot plant cluster.<br\/><br\/><\/p>","text_alignment":"text-left","button_link":"shopify:\/\/collections\/all-pots","button_label":"Find My Sluggs®","color_scheme":"tertiary","use_gradient_background":true}},"166121218824d6cb2f":{"type":"image-with-text","blocks":{"a0072afa-1c14-43f2-84a2-1e6b39db5c28":{"type":"background_shape","settings":{"shape":"star_3","blob_type":1,"size":95,"opacity":4,"blur":0,"horizontal_position":74,"vertical_position":51,"rotate":-22,"enable_parallax":false,"parallax_speed":3,"color":"text","color_scheme":"same_as_section"}}},"block_order":["a0072afa-1c14-43f2-84a2-1e6b39db5c28"],"disabled":true,"settings":{"display_on_card":false,"image":"shopify:\/\/shop_images\/Slugg_Pots_Half-Banner_6.jpg","crop":"aspect-w-1 aspect-h-1","image_shape":"blob","blob_type":10,"rotate_image":0,"image_position":"right","image_size":"half","disable_media_style":false,"title":"Why are Sluggs® sold as a sets of three?  What's up with that?","heading_size":"heading-base","richtext":"<p>The <em>Rule of Three <\/em>is a design principle that simply says: things look better in groups of three.<\/p><p>Apparently, it's just how our lovely brains work.<\/p><p>Even numbers create symmetry, while odd numbers create interest.<\/p><p>A garden pot cluster is a group of three garden pots that look absolutely beautiful together! <\/p><p>Due to the combination of size, shape and proportions; these clusters look fantastic! Your plants will love you for it.<\/p>","text_alignment":"text-left","button_link":"shopify:\/\/collections\/all","button_label":"Shop Now","color_scheme":"secondary","use_gradient_background":false}},"1661212400323a75ee":{"type":"text-columns-with-images","blocks":{"166121239971dd6641-0":{"type":"column","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/Slugg_Icons_Fast-shipping_2.png","title":"Free metro delivery*","text":"<p>Actual slugs may be slow. But our super fast and free shipping network isn’t!<\/p>","cta_link":"","cta_text":"","color_scheme":"same_as_section"}},"166121239971dd6641-1":{"type":"column","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/Slugg_Icons_Pre-packaged_2.png","title":"Pre-packaged Pot Clusters","text":"<p>Now YOU can create the perfect pot cluster with Slugg®.<\/p>","cta_link":"","cta_text":"","color_scheme":"same_as_section"}},"166121239971dd6641-2":{"type":"column","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/Slugg_Icons_Carbon-neutral_2.png","title":"Suitable Indoors & Outside","text":"<p>The entire Slugg® garden pot range is suitable indoors and outside.<\/p>","cta_link":"","cta_text":"","color_scheme":"same_as_section"}},"4176ea49-e179-4bce-ac30-64738dc38cbf":{"type":"column","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/Slugg_Icons_Built-to-last_2.png","title":"Built to Last","text":"<p>Slugg® garden pots are waterproof, lightweight, and tougher than nails<\/p>","cta_link":"","cta_text":"","color_scheme":"same_as_section"}}},"block_order":["166121239971dd6641-0","166121239971dd6641-1","166121239971dd6641-2","4176ea49-e179-4bce-ac30-64738dc38cbf"],"settings":{"display_on_card":true,"slideshow_on_mobile":false,"title":"","crop":"","image_shape":"default","show_index_on_blocks":false,"index_shape":"star_1","text_align":"align_left","color_scheme":"secondary","use_gradient_background":false}},"7238b6b7-b962-4789-969a-e4d88f1b8068":{"type":"image-with-text","settings":{"display_on_card":true,"image":"shopify:\/\/shop_images\/CleanShot_2023-02-24_at_10.57.09.png","crop":"aspect-w-1 aspect-h-1","image_shape":"default","blob_type":1,"rotate_image":0,"image_position":"right","image_size":"half","disable_media_style":false,"title":"Just landed! Plant Food and Apparel","heading_size":"heading-template","richtext":"<p><br>\nFor the first time ever, Slugg is now selling Liquid Plant Food, Caps and the world's comfiest tees. This is a limited release, so get in quick! The perfect addition to your Slugg garden pots.\n<br><br><\/p>","text_alignment":"text-center","button_link":"shopify:\/\/collections\/accessories","button_label":"Shop Accessories Now","color_scheme":"primary","use_gradient_background":false}},"166251381195675a02":{"type":"featured-collection","custom_css":["h3 {font-family: \"Cooper BT\"; font-weight: 200; font-size: 50px;}",".p-5 {font-family: \"DM Sans\"; font-weight: 200; font-size: 25px;}"],"settings":{"title":"Create your perfect garden pot cluster!","subheading":"⭐️⭐️⭐️⭐️⭐️ 4.9 Based on over 900+ Verified Reviews","collection":"all-pots","enable_shop_btn":true,"no_products":4,"show_view_all":false,"enable_quick_buy":false,"display_on_card":true,"layout":"grid","products_per_row_mobile":"1","products_per_row_desktop":4,"slideshow_focus":"center","mobile_slide_width":"three_fifths","desktop_slide_width":40,"autoscroll_mode":"1","product_tiles_aspect_ratio":"aspect-w-1 aspect-h-1","image_shape":"default","color_scheme":"primary","use_gradient_background":false}},"1661211095994b8da4":{"type":"image-with-text-overlay","blocks":{"7f296860-cadd-4944-813e-a71344dd276f":{"type":"shape_divider","disabled":true,"settings":{"target_section":"below","target_section_color_scheme":"secondary","style":"large-waves_1200x84","flip_horizontal":true,"enable_animation":false,"animation_direction":""}},"44a5f143-5350-43e9-98ee-407ab2896abb":{"type":"shape_divider","disabled":true,"settings":{"target_section":"above","target_section_color_scheme":"primary","style":"waves-1-asymmetrical_1440x261","flip_horizontal":true,"enable_animation":false,"animation_direction":""}}},"block_order":["7f296860-cadd-4944-813e-a71344dd276f","44a5f143-5350-43e9-98ee-407ab2896abb"],"settings":{"image":"shopify:\/\/shop_images\/Slugg_Pots_Banner_4_15103094-9ac3-4e04-8b97-cecfda744140.jpg","image_mobile":"shopify:\/\/shop_images\/Slugg_Pots_Banner_4_Mobile.jpg","display_on_card":false,"display_content_below_image_on_mobile":false,"style":"full","height":"natural","place_content":"place-content-center-center","text_align":"text-center","title":"Need help picking plants?","heading_size":"heading-template","richtext":"<p>Slugg® garden pots will look best paired with some beautiful plants!<\/p>","cta_url":"shopify:\/\/blogs\/plant-guides","cta_text":"Check out our plant guide","color_scheme":"tertiary","use_gradient_background":false,"text_overlay_color":"same_as_section"}},"main":{"type":"main-page","disabled":true,"settings":{"display_on_card":true,"color_scheme":"primary","use_gradient_background":false}},"1664493172e9a2290f":{"type":"image-with-text","settings":{"display_on_card":false,"image":"shopify:\/\/shop_images\/quiz.png","crop":"","image_shape":"default","blob_type":1,"rotate_image":0,"image_position":"right","image_size":"third","disable_media_style":false,"title":"Which Slugg Are You?","heading_size":"heading-template","richtext":"<p><br>\nMove over Myers-Briggs, there's a new personality test in town.\n<br><br><\/p>","text_alignment":"text-center","button_link":"https:\/\/7huor7epku0.typeform.com\/to\/lPJcqfL3?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx","button_label":"Take the quiz!","color_scheme":"primary","use_gradient_background":false}},"3263812f-00c4-421f-b26d-fb07f5197de6":{"type":"featured-collection","disabled":true,"custom_css":["h3 {font-family: \"Cooper BT\"; font-weight: 200; font-size: 50px;}",".p-5 {font-family: \"DM Sans\"; font-weight: 200; font-size: 25px;}"],"settings":{"title":"Find your perfect garden pot cluster","subheading":"Find out why these garden pots keep selling out.","collection":"all-pots","enable_shop_btn":false,"no_products":3,"show_view_all":false,"enable_quick_buy":false,"display_on_card":true,"layout":"grid","products_per_row_mobile":"1","products_per_row_desktop":3,"slideshow_focus":"center","mobile_slide_width":"three_fifths","desktop_slide_width":40,"autoscroll_mode":"1","product_tiles_aspect_ratio":"","image_shape":"","color_scheme":"primary","use_gradient_background":false}}},"order":["1661211337eb27d210","1661211315ab90908b","1661211848719de892","1661213136a184a681","166121218824d6cb2f","1661212400323a75ee","7238b6b7-b962-4789-969a-e4d88f1b8068","166251381195675a02","1661211095994b8da4","main","1664493172e9a2290f","3263812f-00c4-421f-b26d-fb07f5197de6"]}
+{
+  "sections": {
+    "1661211337eb27d210": {
+      "type": "image-with-text",
+      "blocks": {
+        "c5d46618-6837-4508-a749-fb10abd54e1c": {
+          "type": "background_shape",
+          "disabled": true,
+          "settings": {
+            "shape": "blob",
+            "blob_type": 9,
+            "size": 110,
+            "opacity": 4,
+            "blur": 0,
+            "horizontal_position": 68,
+            "vertical_position": 54,
+            "rotate": -2,
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color": "text",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "41660cad-daa4-44c7-8789-209b8e96f7dc": {
+          "type": "sticker",
+          "disabled": true,
+          "settings": {
+            "text": "Australian made",
+            "shape": "scalloped_circle_4",
+            "width": 140,
+            "sticker_font_size": "1.563rem",
+            "half_image_width_on_mobile": true,
+            "horizontal_position": 84,
+            "vertical_position": 81,
+            "rotate": -10,
+            "show_sticker_on_mobile": false,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color": "bg-scheme-accent text-scheme-accent-overlay",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "fa5607fb-5fa2-4d36-ab44-a991ecdac7ac": {
+          "type": "sticker",
+          "settings": {
+            "text": "FREE Metro\nDelivery*",
+            "shape": "star_2",
+            "width": 160,
+            "sticker_font_size": "1.563rem",
+            "half_image_width_on_mobile": true,
+            "horizontal_position": 63,
+            "vertical_position": 18,
+            "rotate": -24,
+            "show_sticker_on_mobile": false,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color": "bg-scheme-background text-scheme-text",
+            "color_scheme": "quaternary"
+          }
+        }
+      },
+      "block_order": [
+        "c5d46618-6837-4508-a749-fb10abd54e1c",
+        "41660cad-daa4-44c7-8789-209b8e96f7dc",
+        "fa5607fb-5fa2-4d36-ab44-a991ecdac7ac"
+      ],
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/Slugg_Pots_Half-Banner_3.jpg",
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "default_archway",
+        "blob_type": 7,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Who is Slugg®?",
+        "heading_size": "heading-template",
+        "richtext": "<p><br\/><br\/>Slugg® garden pots are individually handcrafted with the finest materials to create our iconic flawless finish. Your plants deserve the best home.<br\/><br\/><br\/><br\/>Each set of Slugg® garden pots includes three pots: small, medium, and large. <br\/><br\/><br\/><br\/><\/p>",
+        "text_alignment": "text-left",
+        "button_link": "shopify:\/\/collections\/all-pots",
+        "button_label": "Shop All Garden Pots",
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
+    },
+    "1661211315ab90908b": {
+      "type": "text-marquee",
+      "settings": {
+        "text": "Real reviews from real customers",
+        "repeat_text": true,
+        "shape_between_text": "10_point_star",
+        "animate_shape_between_text": true,
+        "link": "",
+        "font": "font-heading heading-secondary",
+        "text_size": "text-xl",
+        "speed": 60,
+        "direction": "",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false
+      }
+    },
+    "1661211848719de892": {
+      "type": "apps",
+      "blocks": {
+        "f2af6efb-8239-4721-a67e-a832cea981dd": {
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-card-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "maxWidth": 1280,
+            "borderRadius": 12,
+            "itemsPerView": 5,
+            "maxNumberOfCharacters": 80,
+            "imageRatio": "1",
+            "reviewerNameColor": "#783e2b",
+            "textColor": "#553b26",
+            "itemBackgroundColor": "#f9f8f6",
+            "starsColor": "#d4f871",
+            "starsBackgroundColor": "rgba(0,0,0,0)",
+            "arrows_backgroundColor": "#d4f871",
+            "arrows_iconColor": "#553b26",
+            "shadow": "none",
+            "border_active": true,
+            "border_width": 1,
+            "border_color": "#553b26",
+            "productIds": ""
+          }
+        }
+      },
+      "block_order": [
+        "f2af6efb-8239-4721-a67e-a832cea981dd"
+      ],
+      "settings": {
+      }
+    },
+    "1661213136a184a681": {
+      "type": "image-with-text",
+      "blocks": {
+        "1f7929bc-a84d-43b4-aa81-5bee307e7a12": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "primary",
+            "style": "large-waves_1200x84",
+            "flip_horizontal": true,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "03889dfa-601f-4ac6-9df4-4c02e5e38164": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "secondary",
+            "style": "large-waves_1200x84",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "69aa803b-ca95-4951-b553-e315c8ccedd4": {
+          "type": "background_shape",
+          "settings": {
+            "shape": "blob",
+            "blob_type": 6,
+            "size": 95,
+            "opacity": 4,
+            "blur": 0,
+            "horizontal_position": 23,
+            "vertical_position": 50,
+            "rotate": 34,
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color": "text",
+            "color_scheme": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "1f7929bc-a84d-43b4-aa81-5bee307e7a12",
+        "03889dfa-601f-4ac6-9df4-4c02e5e38164",
+        "69aa803b-ca95-4951-b553-e315c8ccedd4"
+      ],
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/Slugg_Pots_Half-Banner_7.jpg",
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "blob",
+        "blob_type": 6,
+        "rotate_image": 0,
+        "image_position": "left",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Sluggs® are Australia's highest rated garden pots!",
+        "heading_size": "heading-base",
+        "richtext": "<p><br\/><br\/>⭐️⭐️⭐️⭐️⭐️ 4.9\/5 based on 900+ <a href=\"\/pages\/customer-reviews\" title=\"Customer Reviews\">Verified Reviews<\/a><br\/><br\/>- Free metro delivery <br\/>- Lightweight, waterproof, and built to last<br\/>- Orders dispatched within 24 hours<br\/>- Suitable for indoors & outside<br\/><br\/>Pre-packaged set of three garden pots.  Now you can create the perfect pot plant cluster.<br\/><br\/><\/p>",
+        "text_alignment": "text-left",
+        "button_link": "shopify:\/\/collections\/all-pots",
+        "button_label": "Find My Sluggs®",
+        "color_scheme": "tertiary",
+        "use_gradient_background": true
+      }
+    },
+    "166121218824d6cb2f": {
+      "type": "image-with-text",
+      "blocks": {
+        "a0072afa-1c14-43f2-84a2-1e6b39db5c28": {
+          "type": "background_shape",
+          "settings": {
+            "shape": "star_3",
+            "blob_type": 1,
+            "size": 95,
+            "opacity": 4,
+            "blur": 0,
+            "horizontal_position": 74,
+            "vertical_position": 51,
+            "rotate": -22,
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color": "text",
+            "color_scheme": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "a0072afa-1c14-43f2-84a2-1e6b39db5c28"
+      ],
+      "disabled": true,
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/Slugg_Pots_Half-Banner_6.jpg",
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "blob",
+        "blob_type": 10,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Why are Sluggs® sold as a sets of three?  What's up with that?",
+        "heading_size": "heading-base",
+        "richtext": "<p>The <em>Rule of Three <\/em>is a design principle that simply says: things look better in groups of three.<\/p><p>Apparently, it's just how our lovely brains work.<\/p><p>Even numbers create symmetry, while odd numbers create interest.<\/p><p>A garden pot cluster is a group of three garden pots that look absolutely beautiful together! <\/p><p>Due to the combination of size, shape and proportions; these clusters look fantastic! Your plants will love you for it.<\/p>",
+        "text_alignment": "text-left",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_label": "Shop Now",
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
+    },
+    "1661212400323a75ee": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "166121239971dd6641-0": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/Slugg_Icons_Fast-shipping_2.png",
+            "title": "Free metro delivery*",
+            "text": "<p>Actual slugs may be slow. But our super fast and free shipping network isn’t!<\/p>",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "166121239971dd6641-1": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/Slugg_Icons_Pre-packaged_2.png",
+            "title": "Pre-packaged Pot Clusters",
+            "text": "<p>Now YOU can create the perfect pot cluster with Slugg®.<\/p>",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "166121239971dd6641-2": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/Slugg_Icons_Carbon-neutral_2.png",
+            "title": "Suitable Indoors & Outside",
+            "text": "<p>The entire Slugg® garden pot range is suitable indoors and outside.<\/p>",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "4176ea49-e179-4bce-ac30-64738dc38cbf": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/Slugg_Icons_Built-to-last_2.png",
+            "title": "Built to Last",
+            "text": "<p>Slugg® garden pots are waterproof, lightweight, and tougher than nails<\/p>",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "166121239971dd6641-0",
+        "166121239971dd6641-1",
+        "166121239971dd6641-2",
+        "4176ea49-e179-4bce-ac30-64738dc38cbf"
+      ],
+      "settings": {
+        "display_on_card": true,
+        "slideshow_on_mobile": false,
+        "title": "",
+        "crop": "",
+        "image_shape": "default",
+        "show_index_on_blocks": false,
+        "index_shape": "star_1",
+        "text_align": "align_left",
+        "color_scheme": "secondary",
+        "use_gradient_background": false
+      }
+    },
+    "7238b6b7-b962-4789-969a-e4d88f1b8068": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": true,
+        "image": "shopify:\/\/shop_images\/slugg-summer-tee-aquatic-refresh.jpg",
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Just landed! Plant Food and Apparel",
+        "heading_size": "heading-template",
+        "richtext": "<p><br\/><br\/>For the first time ever, Slugg is now selling Liquid Plant Food, Caps and the world's comfiest tees. This is a limited release, so get in quick! The perfect addition to your Slugg garden pots.<br\/><br\/><br\/><\/p>",
+        "text_alignment": "text-center",
+        "button_link": "shopify:\/\/collections\/accessories",
+        "button_label": "Shop Accessories Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "166251381195675a02": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h3 {font-family: \"Cooper BT\"; font-weight: 200; font-size: 50px;}",
+        ".p-5 {font-family: \"DM Sans\"; font-weight: 200; font-size: 25px;}"
+      ],
+      "settings": {
+        "title": "Create your perfect garden pot cluster!",
+        "subheading": "⭐️⭐️⭐️⭐️⭐️ 4.9 Based on over 900+ Verified Reviews",
+        "collection": "all-pots",
+        "enable_shop_btn": true,
+        "no_products": 4,
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "display_on_card": true,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "aspect-w-1 aspect-h-1",
+        "image_shape": "default",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "1661211095994b8da4": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "7f296860-cadd-4944-813e-a71344dd276f": {
+          "type": "shape_divider",
+          "disabled": true,
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "secondary",
+            "style": "large-waves_1200x84",
+            "flip_horizontal": true,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "44a5f143-5350-43e9-98ee-407ab2896abb": {
+          "type": "shape_divider",
+          "disabled": true,
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "primary",
+            "style": "waves-1-asymmetrical_1440x261",
+            "flip_horizontal": true,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "7f296860-cadd-4944-813e-a71344dd276f",
+        "44a5f143-5350-43e9-98ee-407ab2896abb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Slugg_Pots_Banner_4_15103094-9ac3-4e04-8b97-cecfda744140.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/Slugg_Pots_Banner_4_Mobile.jpg",
+        "display_on_card": false,
+        "display_content_below_image_on_mobile": false,
+        "style": "full",
+        "height": "natural",
+        "place_content": "place-content-center-center",
+        "text_align": "text-center",
+        "title": "Need help picking plants?",
+        "heading_size": "heading-template",
+        "richtext": "<p>Slugg® garden pots will look best paired with some beautiful plants!<\/p>",
+        "cta_url": "shopify:\/\/blogs\/plant-guides",
+        "cta_text": "Check out our plant guide",
+        "color_scheme": "tertiary",
+        "use_gradient_background": false,
+        "text_overlay_color": "same_as_section"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "display_on_card": true,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "1664493172e9a2290f": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/quiz.png",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "third",
+        "disable_media_style": false,
+        "title": "Which Slugg Are You?",
+        "heading_size": "heading-template",
+        "richtext": "<p><br>\nMove over Myers-Briggs, there's a new personality test in town.\n<br><br><\/p>",
+        "text_alignment": "text-center",
+        "button_link": "https:\/\/7huor7epku0.typeform.com\/to\/lPJcqfL3?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx",
+        "button_label": "Take the quiz!",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "3263812f-00c4-421f-b26d-fb07f5197de6": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        "h3 {font-family: \"Cooper BT\"; font-weight: 200; font-size: 50px;}",
+        ".p-5 {font-family: \"DM Sans\"; font-weight: 200; font-size: 25px;}"
+      ],
+      "settings": {
+        "title": "Find your perfect garden pot cluster",
+        "subheading": "Find out why these garden pots keep selling out.",
+        "collection": "all-pots",
+        "enable_shop_btn": false,
+        "no_products": 3,
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "display_on_card": true,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": [
+    "1661211337eb27d210",
+    "1661211315ab90908b",
+    "1661211848719de892",
+    "1661213136a184a681",
+    "166121218824d6cb2f",
+    "1661212400323a75ee",
+    "7238b6b7-b962-4789-969a-e4d88f1b8068",
+    "166251381195675a02",
+    "1661211095994b8da4",
+    "main",
+    "1664493172e9a2290f",
+    "3263812f-00c4-421f-b26d-fb07f5197de6"
+  ]
+}
