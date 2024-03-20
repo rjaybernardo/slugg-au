@@ -712,16 +712,22 @@
   ],
   "blocks": [
     {
-      "type": "product_addon",
-      "name": "Product Add-On",
-      "settings": [
-        {
-          "type": "product",
-          "id": "product_id",
-          "label": "Select a Product"
-        }
-      ]
-    },
+    "type": "product_addon",
+    "name": "Product Add-On",
+    "settings": [
+      {
+        "type": "product",
+        "id": "product_id",
+        "label": "Select a Product"
+      },
+      {
+        "type": "text",
+        "id": "collection_handle",
+        "label": "Collection Handle",
+        "default": "all-pots"
+      }
+    ]
+  },
     {
       "type": "@app"
     },

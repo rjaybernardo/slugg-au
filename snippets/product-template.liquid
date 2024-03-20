@@ -438,8 +438,26 @@
                     block_base_classes: block_base_classes,
                   %}
                   {% when 'product_addon' %}
-                    {%- assign addon_product = all_products[block.settings.product_id] %}
-                    {% render 'product-addon', product: addon_product %}               
+                    {%- assign addon_product = all_products[block.settings.product_id] -%}
+                    {%- assign display_addon = false -%}
+                    
+                    {%- if block.settings.collection_handle != blank -%}
+                      {%- assign selected_collection = collections[block.settings.collection_handle] -%}
+                      {%- if selected_collection -%}
+                        {%- for collection_product in selected_collection.products -%}
+                          {%- if collection_product.id == product.id -%}
+                            {%- assign display_addon = true -%}
+                            {%- break -%}
+                          {%- endif -%}
+                        {%- endfor -%}
+                      {%- endif -%}
+                    {%- else -%}
+                      {%- assign display_addon = true -%}
+                    {%- endif -%}
+                    
+                    {% if display_addon %}
+                      {% render 'product-addon', product: addon_product %}
+                    {% endif %}            
                 {% when 'buy_buttons' %}
                   {% render 'product-block-buy-buttons',
                     product: product,
