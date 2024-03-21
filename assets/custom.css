@@ -712,10 +712,10 @@ Media drop shadow
   color: #f8f8f8;
   background-color: rgba(0, 0, 0, 0.5);
   opacity: 0;
-  transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.2s ease-in-out;
   cursor: pointer;
 }
-.modal-image-container:hover .modal-text {
+.product-addon:hover .modal-text {
   opacity: 1;
 }
 .disabled-button {
