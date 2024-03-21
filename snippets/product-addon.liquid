@@ -39,10 +39,10 @@
       <p>{{ product.title }}</p>
       <p>{{ product.price | money_with_currency }}</p>
     </div>
-    <div x-data="{ mainProductAdded: false }"
-    @buy-clicked.window="mainProductAdded = true">
+    <div
+   >
       <button
-      @click="if (!mainProductAdded) { console.log('Please add the main product first.'); return; } addToCart()"
+      @click= "toggleAddToCart()"
       x-text="addedToCart ? '- Remove' : '+ Add'"
       ></button>
     </div>
