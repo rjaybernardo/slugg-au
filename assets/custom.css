@@ -681,7 +681,10 @@ Media drop shadow
   align-items: center;
   gap: 8px;
 }
-
+.addon-text{
+  display: flex;
+  gap: 8px;
+}
 /* add to cart button BG color */
 #add-to-cart-btn span {
   background-color: #d4f871;
@@ -724,10 +727,18 @@ Media drop shadow
 }
 
 @media (max-width: 900px) {
+  .addon-text{
+    flex-direction: column;
+  }
   .modal {
     padding: 0 10%;
   }
   .modal-container {
     flex-direction: column;
   }
+}
+
+/* Hide Addon Plugins */
+.spice-spa-addon-layouts{
+  display: none !important;
 }

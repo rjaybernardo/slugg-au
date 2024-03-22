@@ -17,6 +17,7 @@
             "pattern": "",
             "hideText": false,
             "alignment": "",
+            "layout": "",
             "textColor": "",
             "starColor": "",
             "showAllReviews": false,
@@ -72,9 +73,25 @@
             "show_pickup_availability": false
           }
         },
-        "46b6101a-cbaa-4477-a9d5-84105d4c328a": {
-          "type": "shopify:\/\/apps\/epa-easy-product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
+        "liquid_mJRq7G": {
+          "type": "liquid",
           "settings": {
+            "display_on_card": false,
+            "liquid": "<h3 class=\"addon\">Add to your order<\/h3>\n<style>\nh3.addon{\nfont-family: inherit;\n    font-size: var(--sg-addon-heading-fontsize);\n    font-weight: 600;\n    margin-top: 10px;\n    margin-bottom: 15px;\n}\n<\/style>"
+          }
+        },
+        "product_addon_Gt3yfE": {
+          "type": "product_addon",
+          "settings": {
+            "product_id": "drainage-kit",
+            "collection_handle": "all-pots"
+          }
+        },
+        "product_addon_EwFK4R": {
+          "type": "product_addon",
+          "settings": {
+            "product_id": "pot-trays",
+            "collection_handle": "all-pots"
           }
         },
         "a17e90c4-acc9-4f1d-af84-828ae4cb2289": {
@@ -115,7 +132,9 @@
         "quantity_selector",
         "variant_picker",
         "baf3083e-d14d-435d-bca3-100d6ac490ce",
-        "46b6101a-cbaa-4477-a9d5-84105d4c328a",
+        "liquid_mJRq7G",
+        "product_addon_Gt3yfE",
+        "product_addon_EwFK4R",
         "a17e90c4-acc9-4f1d-af84-828ae4cb2289",
         "47f63ec7-401d-4a53-bc15-d23504858a74",
         "5a67f2a7-cdab-4c3d-a27e-58e3ecd56b25"
@@ -244,7 +263,8 @@
             "aggregated": false,
             "limit": 20,
             "hide_thumbnails": false,
-            "maxwidth": 1280
+            "maxwidth": 1280,
+            "is_sample": true
           }
         },
         "57908196-27ca-4220-b1f8-a92728efb0b2": {

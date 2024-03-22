@@ -39,14 +39,16 @@
         >
         <div class="modal-text" @click="openModal = true">Quick View</div>
       </div>
+      <div class="addon-text">
       <p>{{ product.title }}</p>
       <p>{{ product.price | money_with_currency }}</p>
+      </div>
     </div>
     <div
    >
       <button
       @click= "toggleAddToCart()"
-      x-text="addedToCart ? '- Remove' : '+ Add'"
+      x-text="addedToCart ? 'Added to Cart' : '+ Add'"
       ></button>
     </div>
     
