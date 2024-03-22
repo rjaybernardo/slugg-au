@@ -1,1 +1,79 @@
-{"sections":{"949d84ff-6e04-4fb9-96bf-50b42c4bb65c":{"type":"custom-rich-text","settings":{"sub_title":"Customer Reviews","title":"Over 900+ 5 Star Reviews","heading_size":"heading-base","rich_text":"","display_on_card":true,"content_width_desktop":"lg:w-2\/3","button_link":"","button_label":"Shop Now","color_scheme":"primary","use_gradient_background":false}},"16963757651bfb8997":{"type":"apps","blocks":{"985168bf-eba8-4de8-84ee-b1d6cb36dc0d":{"type":"shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-agg-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"only_photos":false,"hide_thumbnails":false,"product_handle":"","aggregated":true,"data-limit":24,"maxwidth":1080}}},"block_order":["985168bf-eba8-4de8-84ee-b1d6cb36dc0d"],"settings":{}},"main":{"type":"main-page","disabled":true,"settings":{"display_on_card":true,"color_scheme":"primary","use_gradient_background":false}},"105173ad-3e7f-4631-8d99-208776cc7d06":{"type":"featured-collection","settings":{"title":"Find your perfect Slugg","subheading":"FREE Metro Delivery | Same Day Dispatch | Over 900+ 5 Star Reviews","collection":"all-pots","enable_shop_btn":false,"no_products":4,"show_view_all":false,"enable_quick_buy":false,"display_on_card":true,"layout":"grid","products_per_row_mobile":"1","products_per_row_desktop":4,"slideshow_focus":"center","mobile_slide_width":"three_fifths","desktop_slide_width":40,"autoscroll_mode":"1","product_tiles_aspect_ratio":"","image_shape":"","color_scheme":"primary","use_gradient_background":false}}},"order":["949d84ff-6e04-4fb9-96bf-50b42c4bb65c","16963757651bfb8997","main","105173ad-3e7f-4631-8d99-208776cc7d06"]}
+{
+  "sections": {
+    "949d84ff-6e04-4fb9-96bf-50b42c4bb65c": {
+      "type": "custom-rich-text",
+      "settings": {
+        "sub_title": "Customer Reviews",
+        "title": "Over 900+ 5 Star Reviews",
+        "heading_size": "heading-base",
+        "rich_text": "",
+        "display_on_card": true,
+        "content_width_desktop": "lg:w-2\/3",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "16963757651bfb8997": {
+      "type": "apps",
+      "blocks": {
+        "985168bf-eba8-4de8-84ee-b1d6cb36dc0d": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-agg-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 24,
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "985168bf-eba8-4de8-84ee-b1d6cb36dc0d"
+      ],
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "display_on_card": true,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "105173ad-3e7f-4631-8d99-208776cc7d06": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Find your perfect Slugg",
+        "subheading": "FREE Metro Delivery | Same Day Dispatch | Over 900+ 5 Star Reviews",
+        "collection": "all-pots",
+        "enable_shop_btn": false,
+        "no_products": 4,
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "display_on_card": true,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": [
+    "949d84ff-6e04-4fb9-96bf-50b42c4bb65c",
+    "16963757651bfb8997",
+    "main",
+    "105173ad-3e7f-4631-8d99-208776cc7d06"
+  ]
+}

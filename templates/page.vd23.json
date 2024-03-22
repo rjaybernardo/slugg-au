@@ -1,1 +1,128 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"display_on_card":true,"color_scheme":"primary","use_gradient_background":false}},"343e360b-c08a-4251-9317-ad4b4a7c2072":{"type":"image-with-text","settings":{"display_on_card":true,"image":"shopify:\/\/shop_images\/rtgtghwr.png","crop":"aspect-w-1 aspect-h-1","image_shape":"default","blob_type":1,"rotate_image":0,"image_position":"right","image_size":"half","disable_media_style":false,"title":"Make their (or your) Valentine's Day with 14% off Slugg pots for 48 hours.","heading_size":"heading-template","richtext":"<p>🌱  Use code <strong>SLUGG14<\/strong><\/p><p>🌱  Free Metro Delivery<\/p><p>🌱  Same day dispatch<\/p>","text_alignment":"text-center","button_link":"shopify:\/\/collections\/all","button_label":"Get 14% Off Now","color_scheme":"primary","use_gradient_background":false}},"3c134ca3-e5ab-4e13-a7db-5fe3592391e7":{"type":"text-marquee","settings":{"text":"Offer expires at 2pm Friday 10th February 23","repeat_text":true,"shape_between_text":"10_point_star","animate_shape_between_text":true,"link":"","font":"font-heading heading-secondary","text_size":"text-xl","speed":70,"direction":"","color_scheme":"primary","use_gradient_background":false}},"16758164369479fd14":{"type":"apps","blocks":{"e8421ac8-0ae5-44a5-99ab-d0bb3884fb7c":{"type":"shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-card-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"maxWidth":1100,"borderRadius":8,"itemsPerView":4,"maxNumberOfCharacters":100,"imageRatio":"0.72","reviewerNameColor":"#000000","textColor":"#000000","itemBackgroundColor":"#ffffff","starsColor":"","starsBackgroundColor":"#ffffff","arrows_backgroundColor":"#FFFFFF","arrows_iconColor":"#9A9A9A","shadow":"offset-dark","border_active":false,"border_width":2,"border_color":"#000000","productIds":""}}},"block_order":["e8421ac8-0ae5-44a5-99ab-d0bb3884fb7c"],"settings":{}},"462252f1-5624-4873-9ebe-546eef9cd820":{"type":"featured-collection","settings":{"title":"The perfect gift!","subheading":"Sold as a set of three pots in a box. Use code SLUGG14 for 14% off!","collection":"all-pots","no_products":4,"show_view_all":false,"enable_quick_buy":true,"display_on_card":true,"layout":"grid","products_per_row_mobile":"1","products_per_row_desktop":4,"slideshow_focus":"center","mobile_slide_width":"three_fifths","desktop_slide_width":40,"autoscroll_mode":"1","product_tiles_aspect_ratio":"","image_shape":"","color_scheme":"primary","use_gradient_background":false}},"99dcde74-509d-4d60-a347-04907334842b":{"type":"rich-text","settings":{"title":"Individually handcrafted with the finest materials.","heading_size":"heading-base","rich_text":"<p>Suitable for indoors and outside.<\/p><p>Put simply: they are built to last.<\/p>","display_on_card":true,"content_width_desktop":"lg:w-2\/3","button_link":"shopify:\/\/collections\/all","button_label":"Get 14% Off Now","color_scheme":"primary","use_gradient_background":false}}},"order":["main","343e360b-c08a-4251-9317-ad4b4a7c2072","3c134ca3-e5ab-4e13-a7db-5fe3592391e7","16758164369479fd14","462252f1-5624-4873-9ebe-546eef9cd820","99dcde74-509d-4d60-a347-04907334842b"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "display_on_card": true,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "343e360b-c08a-4251-9317-ad4b4a7c2072": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": true,
+        "image": "shopify:\/\/shop_images\/rtgtghwr.png",
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Make their (or your) Valentine's Day with 14% off Slugg pots for 48 hours.",
+        "heading_size": "heading-template",
+        "richtext": "<p>🌱  Use code <strong>SLUGG14<\/strong><\/p><p>🌱  Free Metro Delivery<\/p><p>🌱  Same day dispatch<\/p>",
+        "text_alignment": "text-center",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_label": "Get 14% Off Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "3c134ca3-e5ab-4e13-a7db-5fe3592391e7": {
+      "type": "text-marquee",
+      "settings": {
+        "text": "Offer expires at 2pm Friday 10th February 23",
+        "repeat_text": true,
+        "shape_between_text": "10_point_star",
+        "animate_shape_between_text": true,
+        "link": "",
+        "font": "font-heading heading-secondary",
+        "text_size": "text-xl",
+        "speed": 70,
+        "direction": "",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "16758164369479fd14": {
+      "type": "apps",
+      "blocks": {
+        "e8421ac8-0ae5-44a5-99ab-d0bb3884fb7c": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-card-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "maxWidth": 1100,
+            "borderRadius": 8,
+            "itemsPerView": 4,
+            "maxNumberOfCharacters": 100,
+            "imageRatio": "0.72",
+            "reviewerNameColor": "#000000",
+            "textColor": "#000000",
+            "itemBackgroundColor": "#ffffff",
+            "starsColor": "",
+            "starsBackgroundColor": "#ffffff",
+            "arrows_backgroundColor": "#FFFFFF",
+            "arrows_iconColor": "#9A9A9A",
+            "shadow": "offset-dark",
+            "border_active": false,
+            "border_width": 2,
+            "border_color": "#000000",
+            "productIds": ""
+          }
+        }
+      },
+      "block_order": [
+        "e8421ac8-0ae5-44a5-99ab-d0bb3884fb7c"
+      ],
+      "settings": {
+      }
+    },
+    "462252f1-5624-4873-9ebe-546eef9cd820": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "The perfect gift!",
+        "subheading": "Sold as a set of three pots in a box. Use code SLUGG14 for 14% off!",
+        "collection": "all-pots",
+        "no_products": 4,
+        "show_view_all": false,
+        "enable_quick_buy": true,
+        "display_on_card": true,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 4,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "99dcde74-509d-4d60-a347-04907334842b": {
+      "type": "rich-text",
+      "settings": {
+        "title": "Individually handcrafted with the finest materials.",
+        "heading_size": "heading-base",
+        "rich_text": "<p>Suitable for indoors and outside.<\/p><p>Put simply: they are built to last.<\/p>",
+        "display_on_card": true,
+        "content_width_desktop": "lg:w-2\/3",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_label": "Get 14% Off Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "343e360b-c08a-4251-9317-ad4b4a7c2072",
+    "3c134ca3-e5ab-4e13-a7db-5fe3592391e7",
+    "16758164369479fd14",
+    "462252f1-5624-4873-9ebe-546eef9cd820",
+    "99dcde74-509d-4d60-a347-04907334842b"
+  ]
+}

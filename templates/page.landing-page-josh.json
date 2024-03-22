@@ -1,1 +1,497 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"display_on_card":true,"color_scheme":"primary","use_gradient_background":false}},"c2a44a33-46cd-411b-b266-7ae005d0c7a6":{"type":"image-with-text","settings":{"display_on_card":true,"image":"shopify:\/\/shop_images\/CleanShot_2022-12-12_at_15.18.53.png","crop":"aspect-w-1 aspect-h-1","image_shape":"default","blob_type":1,"rotate_image":0,"image_position":"right","image_size":"half","disable_media_style":false,"title":"Find your plants a home with Slugg garden pots®","heading_size":"heading-template","richtext":"<p>🌱 Designer garden pots.<\/p><p>🌱 Sold as a set of 3.<\/p><p>🌱 FREE metro delivery.<\/p>","text_alignment":"text-center","button_link":"shopify:\/\/collections\/all-pots","button_label":"Shop all pots","color_scheme":"primary","use_gradient_background":false}},"b15833ac-44a2-42c6-af38-309b156748d1":{"type":"text-columns-with-images","blocks":{"template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-0":{"type":"column","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/Slugg_Character_08.21_Slugg-FastShipping_b815012c-fea3-4903-bc64-25a55709c5b2.png","title":"FREE Metro Delivery!","text":"<p>Actual slugs may be slow. But our super fast and free shipping network isn’t!<\/p>","cta_link":"","cta_text":"","color_scheme":"same_as_section"}},"template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-1":{"type":"column","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/Slugg_Character_08.21_Slugg-Prepackaged_a6634852-9c62-4939-86ff-f0e028fe0193.png","title":"Sold as a Set of 3 garden pots","text":"<p>Sluggs® are sold in sets of 3, so YOU can create the perfect pot cluster.<\/p>","cta_link":"","cta_text":"","color_scheme":"same_as_section"}},"template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-2":{"type":"column","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/Slugg_Character_08.21_Slugg-CarbonNeutral_983ffab1-3653-4b93-a335-8572223c29c0.png","title":"Suitable for indoors & out","text":"<p>The entire Slugg® range is suitable for indoors and outside.<\/p>","cta_link":"","cta_text":"","color_scheme":"same_as_section"}},"7130eeed-e363-4cc8-933a-dd09895ddc60":{"type":"column","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/Slugg_Character_08.21_Slugg-BuiltToLast_dc5d55d9-a45c-4920-95a7-53b01a5fa68f.png","title":"Built to Last","text":"<p>Slugg® garden pots are waterproof, lightweight, and tougher than nails.<\/p>","cta_link":"","cta_text":"","color_scheme":"same_as_section"}}},"block_order":["template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-0","template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-1","template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-2","7130eeed-e363-4cc8-933a-dd09895ddc60"],"settings":{"display_on_card":false,"slideshow_on_mobile":true,"title":"","crop":"","image_shape":"default","show_index_on_blocks":false,"index_shape":"star_1","text_align":"align_left","color_scheme":"primary","use_gradient_background":false}},"1664336306ba75ca14":{"type":"rich-text","settings":{"title":"Individually handcrafted garden pots with the finest materials.","heading_size":"heading-base","rich_text":"<p>Suitable for indoors and outside. <\/p><p>Put simply: they are built to last.<\/p>","display_on_card":false,"content_width_desktop":"lg:w-2\/3","button_link":"shopify:\/\/collections\/all-pots","button_label":"Shop Slugg® Now","color_scheme":"primary","use_gradient_background":false}},"16643364911c50955b":{"type":"image-with-text","blocks":{"b5387d4d-17da-4c8f-8b52-784f7f7d0201":{"type":"sticker","settings":{"text":"FREE Metro Delivery","shape":"star_1","width":150,"sticker_font_size":"1.563rem","half_image_width_on_mobile":true,"horizontal_position":80,"vertical_position":17,"rotate":-14,"show_sticker_on_mobile":false,"show_sticker_on_desktop":true,"rotation_animation":"none","enable_parallax":false,"parallax_speed":3,"color":"bg-scheme-accent text-scheme-accent-overlay","color_scheme":"same_as_section"}}},"block_order":["b5387d4d-17da-4c8f-8b52-784f7f7d0201"],"settings":{"display_on_card":false,"image":"shopify:\/\/shop_images\/Slugg_Pots_Banner_4_Mobile.jpg","crop":"aspect-w-1 aspect-h-1","image_shape":"default_archway","blob_type":1,"rotate_image":0,"image_position":"left","image_size":"half","disable_media_style":false,"title":"Easy to buy, easy to use.","heading_size":"heading-base","richtext":"<p>✔️ Sold as a set of three pots in a box.<\/p><p>✔️ Free metro delivery.<\/p><p>✔️ Orders dispatched within 24 hours.<\/p>","text_alignment":"text-left","button_link":"shopify:\/\/collections\/all-pots","button_label":"Shop Now","color_scheme":"quaternary","use_gradient_background":false}},"166433669256d1e817":{"type":"featured-collection","custom_css":["h3 {font-family: \"Cooper BT\"; font-weight: 200; font-size: 50px;}"],"settings":{"title":"Meet the Sluggs®","subheading":"Three garden pots. Three styles. Three colours.","collection":"all-pots","enable_shop_btn":false,"no_products":3,"show_view_all":false,"enable_quick_buy":true,"display_on_card":true,"layout":"grid","products_per_row_mobile":"1","products_per_row_desktop":3,"slideshow_focus":"center","mobile_slide_width":"three_fifths","desktop_slide_width":40,"autoscroll_mode":"1","product_tiles_aspect_ratio":"","image_shape":"default_archway","color_scheme":"primary","use_gradient_background":false}},"1664337022fd5a5add":{"type":"image-with-text","settings":{"display_on_card":true,"image":"shopify:\/\/shop_images\/SLUGGDAY3-142.jpg","crop":"aspect-w-1 aspect-h-1","image_shape":"default_archway","blob_type":1,"rotate_image":0,"image_position":"right","image_size":"half","disable_media_style":false,"title":"Say hello to a flawless finish","heading_size":"heading-template","richtext":"<p>Slugg® garden pots are made with poly resin, making it waterproof, lightweight, and tougher than nails. Indoors or outdoors, our pot clusters are made to stand it all. <\/p><p>With passion comes care. Slugg® garden pots are handmade in moulds, making it lightweight and durable.<\/p>","text_alignment":"text-left","button_link":"shopify:\/\/collections\/all-pots","button_label":"Shop Sluggs®","color_scheme":"primary","use_gradient_background":false}},"70b90386-353d-438b-a8dc-755ae63607c7":{"type":"text-columns-with-images","blocks":{"template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-0":{"type":"column","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/3_47b73d12-c1ff-4009-9ecb-5aba48fbbe70.png","title":"\"Sluggs are the hottest item for your garden\"","text":"","cta_link":"","cta_text":"","color_scheme":"same_as_section"}},"template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-1":{"type":"column","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/1_16c837f3-027a-415c-a11e-ad18a911e65e.png","title":"\"The perfect addition to any project\"","text":"","cta_link":"","cta_text":"","color_scheme":"same_as_section"}},"template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-2":{"type":"column","settings":{"show_image":true,"image":"shopify:\/\/shop_images\/2_bf795352-bb9b-4dbc-aa2a-c363edba3c88.png","title":"\"There’s a new swish pot company in town.\"","text":"","cta_link":"","cta_text":"","color_scheme":"same_as_section"}}},"block_order":["template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-0","template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-1","template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-2"],"settings":{"display_on_card":true,"slideshow_on_mobile":false,"title":"","crop":"","image_shape":"default","show_index_on_blocks":false,"index_shape":"star_1","text_align":"align_left","color_scheme":"primary","use_gradient_background":false}},"1664337251ac1682a8":{"type":"hero-slideshow","blocks":{"1664337251d8b28343-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/SLUGGDAY3-12-img-edit_2.png","image_mobile":"shopify:\/\/shop_images\/CleanShot_2022-09-28_at_13.56.45.png","title":"Good Things Come in Threes","richtext":"<p>Designers call it the 'rule of three'. Even numbers create symmetry, while odd numbers create interest.<\/p><p>Nestled within each other like a set of nesting dolls 🪆, each Slugg set includes a small, medium, and large pot<\/p><p>Three garden pots, in a box!<\/p>","cta_url":"shopify:\/\/collections\/all-pots","cta_text":"Try Slugg® Today","place_content":"inherit","text_align":"inherit","text_overlay_color":"same_as_section"}},"1664337251d8b28343-1":{"type":"slide","disabled":true,"settings":{"title":"Hero slideshow","richtext":"","cta_url":"","cta_text":"Shop Now","place_content":"inherit","text_align":"inherit","text_overlay_color":"same_as_section"}}},"block_order":["1664337251d8b28343-0","1664337251d8b28343-1"],"settings":{"style":"full","height":"pt-three-quarters-screen-height","display_on_card":true,"display_content_below_image_on_mobile":true,"place_content":"lg:place-content-center-start","text_align":"text-left","heading_size":"heading-template","color_scheme":"primary","use_gradient_background":false}},"166433692710ba2369":{"type":"apps","blocks":{"04f325a6-d37f-4f6f-bbd8-9adeb70401cc":{"type":"shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-card-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"maxWidth":1160,"borderRadius":8,"itemsPerView":5,"maxNumberOfCharacters":100,"imageRatio":"1.25","reviewerNameColor":"#553b26","textColor":"#553b26","itemBackgroundColor":"#ffffff","starsColor":"","starsBackgroundColor":"#ffffff","arrows_backgroundColor":"#ffffff","arrows_iconColor":"#9a9a9a","shadow":"offset-dark","border_active":false,"border_width":2,"border_color":"#000000","productIds":""}}},"block_order":["04f325a6-d37f-4f6f-bbd8-9adeb70401cc"],"settings":{}},"166433841603a83387":{"type":"image-with-text","blocks":{"b257580a-92c6-41f0-aeae-15de007cd410":{"type":"sticker","settings":{"text":"Sold as a \nset of 3!","shape":"star_1","width":150,"sticker_font_size":"1.953rem","half_image_width_on_mobile":true,"horizontal_position":65,"vertical_position":29,"rotate":-20,"show_sticker_on_mobile":false,"show_sticker_on_desktop":true,"rotation_animation":"none","enable_parallax":false,"parallax_speed":3,"color":"bg-scheme-accent text-scheme-accent-overlay","color_scheme":"same_as_section"}}},"block_order":["b257580a-92c6-41f0-aeae-15de007cd410"],"settings":{"display_on_card":true,"image":"shopify:\/\/shop_images\/SLUGG_CRONULLA-14.jpg","crop":"aspect-w-1 aspect-h-1","image_shape":"default_archway","blob_type":1,"rotate_image":0,"image_position":"right","image_size":"half","disable_media_style":false,"title":"Made from durable poly-resin, these garden pots are perfect for both indoor and outdoor use.","heading_size":"heading-base","richtext":"<p>⭐️⭐️⭐️⭐️⭐️ 4.9 Based on over 600+ Verified Reviews<\/p>","text_alignment":"text-center","button_link":"shopify:\/\/collections\/all-pots","button_label":"Find Your Sluggs® Now","color_scheme":"primary","use_gradient_background":false}},"3e3ffe4f-08c0-4323-a83d-dbd48a2e82dc":{"type":"image-with-text","disabled":true,"settings":{"display_on_card":true,"image":"shopify:\/\/shop_images\/quiz.png","crop":"","image_shape":"default","blob_type":1,"rotate_image":0,"image_position":"right","image_size":"half","disable_media_style":false,"title":"Take the Slugg® personality quiz.","heading_size":"heading-base","richtext":"<p>Move over Myers-Briggs, there's a new personality profile test in town.  And it takes less than a minute.<\/p>","text_alignment":"text-center","button_link":"https:\/\/7huor7epku0.typeform.com\/to\/lPJcqfL3?","button_label":"Take The Quiz","color_scheme":"primary","use_gradient_background":false}},"1664337266262e2f4d":{"type":"faq","blocks":{"1664337266cbe6056b-4":{"type":"question","settings":{"question":"Do you offer free delivery?","answer":"<p>We provide free delivery to metro areas. We charge $19 to areas classified as  Zone 2. We charge $99 to areas classified as Zone 3. At this stage, we cannot send Sluggs to NT or TAS. <\/p><p>Due to the increased cost of shipping due to fuel levies, we cannot send to non-metro areas in QLD and WA, however, please email info@slugg.com.au, and we will provide you with a quote. As a rough guide, rural shipping costs between $59 - $149 per set depending on location.<\/p>"}},"1664337266cbe6056b-0":{"type":"question","settings":{"question":"Can I purchase Sluggs® individually?","answer":"<p>Each set of Sluggs includes three pots: small, medium, and large. They fit inside one another like a set of Nesting Dolls. 🪆<\/p>"}},"1664337266cbe6056b-1":{"type":"question","settings":{"question":"Can they be used indoors and outside?","answer":"<p>Yes, Slugg® garden pots are suitable for use outdoors in rain, hail, sun or snow. They also look great indoors.<\/p>"}},"1664337266cbe6056b-2":{"type":"question","settings":{"question":"What are they made of?","answer":"<p>Slugg pots are individually handcrafted with the finest materials to create our iconic flawless finish. Your plants deserve the best home.<br\/><br\/>Made from high-quality poly-resin, they are suitable for indoors and outside. Put simply: they are built to last.<\/p>"}}},"block_order":["1664337266cbe6056b-4","1664337266cbe6056b-0","1664337266cbe6056b-1","1664337266cbe6056b-2"],"settings":{"display_on_card":true,"heading_text_style":"heading","two_columns_desktop":true,"title":"FAQ","richtext":"<p>Find the most frequently asked questions below.<\/p>","color_scheme":"quaternary","use_gradient_background":false}},"66c1bdfc-982f-4b78-bbc0-004de060c84d":{"type":"custom-liquid","disabled":true,"settings":{"title":"","custom_liquid":"<div class=\"klaviyo-form-UjuH66\"><\/div>","full_width":false,"color_scheme":"primary"}}},"order":["main","c2a44a33-46cd-411b-b266-7ae005d0c7a6","b15833ac-44a2-42c6-af38-309b156748d1","1664336306ba75ca14","16643364911c50955b","166433669256d1e817","1664337022fd5a5add","70b90386-353d-438b-a8dc-755ae63607c7","1664337251ac1682a8","166433692710ba2369","166433841603a83387","3e3ffe4f-08c0-4323-a83d-dbd48a2e82dc","1664337266262e2f4d","66c1bdfc-982f-4b78-bbc0-004de060c84d"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "display_on_card": true,
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "c2a44a33-46cd-411b-b266-7ae005d0c7a6": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": true,
+        "image": "shopify:\/\/shop_images\/CleanShot_2022-12-12_at_15.18.53.png",
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Find your plants a home with Slugg garden pots®",
+        "heading_size": "heading-template",
+        "richtext": "<p>🌱 Designer garden pots.<\/p><p>🌱 Sold as a set of 3.<\/p><p>🌱 FREE metro delivery.<\/p>",
+        "text_alignment": "text-center",
+        "button_link": "shopify:\/\/collections\/all-pots",
+        "button_label": "Shop all pots",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "b15833ac-44a2-42c6-af38-309b156748d1": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-0": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/Slugg_Character_08.21_Slugg-FastShipping_b815012c-fea3-4903-bc64-25a55709c5b2.png",
+            "title": "FREE Metro Delivery!",
+            "text": "<p>Actual slugs may be slow. But our super fast and free shipping network isn’t!<\/p>",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-1": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/Slugg_Character_08.21_Slugg-Prepackaged_a6634852-9c62-4939-86ff-f0e028fe0193.png",
+            "title": "Sold as a Set of 3 garden pots",
+            "text": "<p>Sluggs® are sold in sets of 3, so YOU can create the perfect pot cluster.<\/p>",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-2": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/Slugg_Character_08.21_Slugg-CarbonNeutral_983ffab1-3653-4b93-a335-8572223c29c0.png",
+            "title": "Suitable for indoors & out",
+            "text": "<p>The entire Slugg® range is suitable for indoors and outside.<\/p>",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "7130eeed-e363-4cc8-933a-dd09895ddc60": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/Slugg_Character_08.21_Slugg-BuiltToLast_dc5d55d9-a45c-4920-95a7-53b01a5fa68f.png",
+            "title": "Built to Last",
+            "text": "<p>Slugg® garden pots are waterproof, lightweight, and tougher than nails.<\/p>",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-0",
+        "template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-1",
+        "template--15935031050433__b15833ac-44a2-42c6-af38-309b156748d1-1665975430f83e9f32-2",
+        "7130eeed-e363-4cc8-933a-dd09895ddc60"
+      ],
+      "settings": {
+        "display_on_card": false,
+        "slideshow_on_mobile": true,
+        "title": "",
+        "crop": "",
+        "image_shape": "default",
+        "show_index_on_blocks": false,
+        "index_shape": "star_1",
+        "text_align": "align_left",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "1664336306ba75ca14": {
+      "type": "rich-text",
+      "settings": {
+        "title": "Individually handcrafted garden pots with the finest materials.",
+        "heading_size": "heading-base",
+        "rich_text": "<p>Suitable for indoors and outside. <\/p><p>Put simply: they are built to last.<\/p>",
+        "display_on_card": false,
+        "content_width_desktop": "lg:w-2\/3",
+        "button_link": "shopify:\/\/collections\/all-pots",
+        "button_label": "Shop Slugg® Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "16643364911c50955b": {
+      "type": "image-with-text",
+      "blocks": {
+        "b5387d4d-17da-4c8f-8b52-784f7f7d0201": {
+          "type": "sticker",
+          "settings": {
+            "text": "FREE Metro Delivery",
+            "shape": "star_1",
+            "width": 150,
+            "sticker_font_size": "1.563rem",
+            "half_image_width_on_mobile": true,
+            "horizontal_position": 80,
+            "vertical_position": 17,
+            "rotate": -14,
+            "show_sticker_on_mobile": false,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color": "bg-scheme-accent text-scheme-accent-overlay",
+            "color_scheme": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "b5387d4d-17da-4c8f-8b52-784f7f7d0201"
+      ],
+      "settings": {
+        "display_on_card": false,
+        "image": "shopify:\/\/shop_images\/Slugg_Pots_Banner_4_Mobile.jpg",
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "default_archway",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "left",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Easy to buy, easy to use.",
+        "heading_size": "heading-base",
+        "richtext": "<p>✔️ Sold as a set of three pots in a box.<\/p><p>✔️ Free metro delivery.<\/p><p>✔️ Orders dispatched within 24 hours.<\/p>",
+        "text_alignment": "text-left",
+        "button_link": "shopify:\/\/collections\/all-pots",
+        "button_label": "Shop Now",
+        "color_scheme": "quaternary",
+        "use_gradient_background": false
+      }
+    },
+    "166433669256d1e817": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h3 {font-family: \"Cooper BT\"; font-weight: 200; font-size: 50px;}"
+      ],
+      "settings": {
+        "title": "Meet the Sluggs®",
+        "subheading": "Three garden pots. Three styles. Three colours.",
+        "collection": "all-pots",
+        "enable_shop_btn": false,
+        "no_products": 3,
+        "show_view_all": false,
+        "enable_quick_buy": true,
+        "display_on_card": true,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "default_archway",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "1664337022fd5a5add": {
+      "type": "image-with-text",
+      "settings": {
+        "display_on_card": true,
+        "image": "shopify:\/\/shop_images\/SLUGGDAY3-142.jpg",
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "default_archway",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Say hello to a flawless finish",
+        "heading_size": "heading-template",
+        "richtext": "<p>Slugg® garden pots are made with poly resin, making it waterproof, lightweight, and tougher than nails. Indoors or outdoors, our pot clusters are made to stand it all. <\/p><p>With passion comes care. Slugg® garden pots are handmade in moulds, making it lightweight and durable.<\/p>",
+        "text_alignment": "text-left",
+        "button_link": "shopify:\/\/collections\/all-pots",
+        "button_label": "Shop Sluggs®",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "70b90386-353d-438b-a8dc-755ae63607c7": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-0": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/3_47b73d12-c1ff-4009-9ecb-5aba48fbbe70.png",
+            "title": "\"Sluggs are the hottest item for your garden\"",
+            "text": "",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-1": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/1_16c837f3-027a-415c-a11e-ad18a911e65e.png",
+            "title": "\"The perfect addition to any project\"",
+            "text": "",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        },
+        "template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-2": {
+          "type": "column",
+          "settings": {
+            "show_image": true,
+            "image": "shopify:\/\/shop_images\/2_bf795352-bb9b-4dbc-aa2a-c363edba3c88.png",
+            "title": "\"There’s a new swish pot company in town.\"",
+            "text": "",
+            "cta_link": "",
+            "cta_text": "",
+            "color_scheme": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-0",
+        "template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-1",
+        "template--15935031050433__70b90386-353d-438b-a8dc-755ae63607c7-1665980687b755a7e7-2"
+      ],
+      "settings": {
+        "display_on_card": true,
+        "slideshow_on_mobile": false,
+        "title": "",
+        "crop": "",
+        "image_shape": "default",
+        "show_index_on_blocks": false,
+        "index_shape": "star_1",
+        "text_align": "align_left",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "1664337251ac1682a8": {
+      "type": "hero-slideshow",
+      "blocks": {
+        "1664337251d8b28343-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SLUGGDAY3-12-img-edit_2.png",
+            "image_mobile": "shopify:\/\/shop_images\/CleanShot_2022-09-28_at_13.56.45.png",
+            "title": "Good Things Come in Threes",
+            "richtext": "<p>Designers call it the 'rule of three'. Even numbers create symmetry, while odd numbers create interest.<\/p><p>Nestled within each other like a set of nesting dolls 🪆, each Slugg set includes a small, medium, and large pot<\/p><p>Three garden pots, in a box!<\/p>",
+            "cta_url": "shopify:\/\/collections\/all-pots",
+            "cta_text": "Try Slugg® Today",
+            "place_content": "inherit",
+            "text_align": "inherit",
+            "text_overlay_color": "same_as_section"
+          }
+        },
+        "1664337251d8b28343-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "title": "Hero slideshow",
+            "richtext": "",
+            "cta_url": "",
+            "cta_text": "Shop Now",
+            "place_content": "inherit",
+            "text_align": "inherit",
+            "text_overlay_color": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "1664337251d8b28343-0",
+        "1664337251d8b28343-1"
+      ],
+      "settings": {
+        "style": "full",
+        "height": "pt-three-quarters-screen-height",
+        "display_on_card": true,
+        "display_content_below_image_on_mobile": true,
+        "place_content": "lg:place-content-center-start",
+        "text_align": "text-left",
+        "heading_size": "heading-template",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "166433692710ba2369": {
+      "type": "apps",
+      "blocks": {
+        "04f325a6-d37f-4f6f-bbd8-9adeb70401cc": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-card-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "maxWidth": 1160,
+            "borderRadius": 8,
+            "itemsPerView": 5,
+            "maxNumberOfCharacters": 100,
+            "imageRatio": "1.25",
+            "reviewerNameColor": "#553b26",
+            "textColor": "#553b26",
+            "itemBackgroundColor": "#ffffff",
+            "starsColor": "",
+            "starsBackgroundColor": "#ffffff",
+            "arrows_backgroundColor": "#ffffff",
+            "arrows_iconColor": "#9a9a9a",
+            "shadow": "offset-dark",
+            "border_active": false,
+            "border_width": 2,
+            "border_color": "#000000",
+            "productIds": ""
+          }
+        }
+      },
+      "block_order": [
+        "04f325a6-d37f-4f6f-bbd8-9adeb70401cc"
+      ],
+      "settings": {
+      }
+    },
+    "166433841603a83387": {
+      "type": "image-with-text",
+      "blocks": {
+        "b257580a-92c6-41f0-aeae-15de007cd410": {
+          "type": "sticker",
+          "settings": {
+            "text": "Sold as a \nset of 3!",
+            "shape": "star_1",
+            "width": 150,
+            "sticker_font_size": "1.953rem",
+            "half_image_width_on_mobile": true,
+            "horizontal_position": 65,
+            "vertical_position": 29,
+            "rotate": -20,
+            "show_sticker_on_mobile": false,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color": "bg-scheme-accent text-scheme-accent-overlay",
+            "color_scheme": "same_as_section"
+          }
+        }
+      },
+      "block_order": [
+        "b257580a-92c6-41f0-aeae-15de007cd410"
+      ],
+      "settings": {
+        "display_on_card": true,
+        "image": "shopify:\/\/shop_images\/SLUGG_CRONULLA-14.jpg",
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "default_archway",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Made from durable poly-resin, these garden pots are perfect for both indoor and outdoor use.",
+        "heading_size": "heading-base",
+        "richtext": "<p>⭐️⭐️⭐️⭐️⭐️ 4.9 Based on over 600+ Verified Reviews<\/p>",
+        "text_alignment": "text-center",
+        "button_link": "shopify:\/\/collections\/all-pots",
+        "button_label": "Find Your Sluggs® Now",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "3e3ffe4f-08c0-4323-a83d-dbd48a2e82dc": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "display_on_card": true,
+        "image": "shopify:\/\/shop_images\/quiz.png",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Take the Slugg® personality quiz.",
+        "heading_size": "heading-base",
+        "richtext": "<p>Move over Myers-Briggs, there's a new personality profile test in town.  And it takes less than a minute.<\/p>",
+        "text_alignment": "text-center",
+        "button_link": "https:\/\/7huor7epku0.typeform.com\/to\/lPJcqfL3?",
+        "button_label": "Take The Quiz",
+        "color_scheme": "primary",
+        "use_gradient_background": false
+      }
+    },
+    "1664337266262e2f4d": {
+      "type": "faq",
+      "blocks": {
+        "1664337266cbe6056b-4": {
+          "type": "question",
+          "settings": {
+            "question": "Do you offer free delivery?",
+            "answer": "<p>We provide free delivery to metro areas. We charge $19 to areas classified as  Zone 2. We charge $99 to areas classified as Zone 3. At this stage, we cannot send Sluggs to NT or TAS. <\/p><p>Due to the increased cost of shipping due to fuel levies, we cannot send to non-metro areas in QLD and WA, however, please email info@slugg.com.au, and we will provide you with a quote. As a rough guide, rural shipping costs between $59 - $149 per set depending on location.<\/p>"
+          }
+        },
+        "1664337266cbe6056b-0": {
+          "type": "question",
+          "settings": {
+            "question": "Can I purchase Sluggs® individually?",
+            "answer": "<p>Each set of Sluggs includes three pots: small, medium, and large. They fit inside one another like a set of Nesting Dolls. 🪆<\/p>"
+          }
+        },
+        "1664337266cbe6056b-1": {
+          "type": "question",
+          "settings": {
+            "question": "Can they be used indoors and outside?",
+            "answer": "<p>Yes, Slugg® garden pots are suitable for use outdoors in rain, hail, sun or snow. They also look great indoors.<\/p>"
+          }
+        },
+        "1664337266cbe6056b-2": {
+          "type": "question",
+          "settings": {
+            "question": "What are they made of?",
+            "answer": "<p>Slugg pots are individually handcrafted with the finest materials to create our iconic flawless finish. Your plants deserve the best home.<br\/><br\/>Made from high-quality poly-resin, they are suitable for indoors and outside. Put simply: they are built to last.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664337266cbe6056b-4",
+        "1664337266cbe6056b-0",
+        "1664337266cbe6056b-1",
+        "1664337266cbe6056b-2"
+      ],
+      "settings": {
+        "display_on_card": true,
+        "heading_text_style": "heading",
+        "two_columns_desktop": true,
+        "title": "FAQ",
+        "richtext": "<p>Find the most frequently asked questions below.<\/p>",
+        "color_scheme": "quaternary",
+        "use_gradient_background": false
+      }
+    },
+    "66c1bdfc-982f-4b78-bbc0-004de060c84d": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "custom_liquid": "<div class=\"klaviyo-form-UjuH66\"><\/div>",
+        "full_width": false,
+        "color_scheme": "primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c2a44a33-46cd-411b-b266-7ae005d0c7a6",
+    "b15833ac-44a2-42c6-af38-309b156748d1",
+    "1664336306ba75ca14",
+    "16643364911c50955b",
+    "166433669256d1e817",
+    "1664337022fd5a5add",
+    "70b90386-353d-438b-a8dc-755ae63607c7",
+    "1664337251ac1682a8",
+    "166433692710ba2369",
+    "166433841603a83387",
+    "3e3ffe4f-08c0-4323-a83d-dbd48a2e82dc",
+    "1664337266262e2f4d",
+    "66c1bdfc-982f-4b78-bbc0-004de060c84d"
+  ]
+}
